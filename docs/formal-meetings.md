@@ -1,4 +1,4 @@
-<# Formal meetings
+# Formal meetings
 
 ## Description
 
@@ -101,6 +101,11 @@ ideal to ensure that speakers represent a range of views and levels
 * An “open door” for participants is important - either with the chair or the staff person - to ensure that there is an informal vehicle for feedback throughout the process. It is impossible to make everyone happy, but transparency and availability are very helpful.
 
 ### Checklists
+
+??? note "checklist for foo"
+
+    - [ ] make your fiz
+    - [ ] do your baz
 
 (Nothing here yet)
 
