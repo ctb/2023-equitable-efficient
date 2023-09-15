@@ -16,6 +16,34 @@ of hierarchy/position. Sometimes these meetings involve larger numbers
 of participants than other meetings, including both senior-level
 participants and individuals who are staffing them.
 
+### Laying the groundwork - structural items
+
+* Review administrative plans for note taking, IT issues, agenda preparation, and email communications
+* Describe / detail norms for group, including promoting inclusivity and openness, manage productive disagreement, and bringing together diversity of ideas.
+* Determine if final consensus is needed and in what areas. Deciding if the final deliverable(s) can present or accommodate different approaches and recommendations or need to present one unified decision/path.
+* Decide if an additional governance structure/process is necessary (this might be helpful if the group is very large, or includes multiple institutions, for example
+* Establish a meeting schedule
+
+### Pre-meeting checklist
+
+* Send around agenda document in advance, defining roles and read-aheads.
+* Designate note-taker(s)
+* Share action points and notes from the previous meeting
+* Designate speakers/coordinators for each section of the agenda
+* Formulate guiding questions for discussions to keep the conversation flowing
+
+### In-meeting items
+
+* Document attendance
+* Review the formal charge for the committee from leadership, including deliverables and processes
+* Review processes in meetings with respect to inclusivity/openness, disagreement, bringing together a diversity of ideas
+* Document discussion, ideas, and action points.
+
+### Post-meeting items
+
+
+## Appendix Below Here
+
 ## Facilitator Considerations
 
 ### Pre-meeting
