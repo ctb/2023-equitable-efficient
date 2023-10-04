@@ -47,7 +47,7 @@ as well as actions stemming from the meeting.
     
 ### Post-meeting
 
-After the meeting, send around updates to remind people of what happened
+After the meeting, send updates to remind people of what happened
 at the meeting and what needs to happen.
 
 ???+ note "Checklist for immediate post-meeting actions"

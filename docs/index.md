@@ -14,3 +14,5 @@ meetings for managing a project from start to finish.
 
 [Brainstorming meeting](brainstorming.md) - small group meeting to
 generate ideas, to problem solve, and think creatively.
+
+[Strategic planning meetings](strategic-planning.md) - meetings to create or contribute to strategic planning processes.
