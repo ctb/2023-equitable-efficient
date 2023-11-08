@@ -1,5 +1,6 @@
 ### Laying the groundwork
 
+CTB: make into checklists
 
 * Choose a limited group size (5-10)
 

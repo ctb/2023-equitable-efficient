@@ -26,10 +26,10 @@ save time and achieve your objectives.
 
 This toolkit includes guidance for four categories of meetings: 
 
-* Formal meetings
-* Project management meetings
-* Brainstorming meetings
-* Strategic planning meetings
+* [Formal meetings](formal-meetings.md)
+* [Project management meetings](project-management.md)
+* [Brainstorming meetings](brainstorming.md)
+* [Strategic planning meetings](strategic-planning.md)
 
 ### Efficiency
 
@@ -79,3 +79,11 @@ meetings for managing a project from start to finish.
 generate ideas, to problem solve, and think creatively.
 
 [Strategic planning meetings](strategic-planning.md) - meetings to create or contribute to strategic planning processes.
+
+## Tools and Templates
+
+Agenda template
+
+Meeting invite template
+
+(CTB: these will become links to a google drive.)
