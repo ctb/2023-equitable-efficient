@@ -10,7 +10,7 @@ For better or worse, meetings are one of the main mechanisms we use in
 our workplaces to share, plan, organize and move forward on
 initiatives. Meetings are a necessary part of collaborative work.
 
-We can make them better!
+**We can make them better!**
 
 The purpose of this toolkit is to support improved collaboration
 through efficient and equitable meetings. This toolkit was written to
@@ -82,8 +82,18 @@ generate ideas, to problem solve, and think creatively.
 
 ## Tools and Templates
 
-Agenda template
+We have made a number of resources available on [Google Drive](https://drive.google.com/drive/folders/15bG3BE4BBQg0aNOMKHzRPuvN4hl3MqiF?usp=sharing).
 
-Meeting invite template
+* Agenda template
+* Meeting invite template
 
-(CTB: these will become links to a google drive.)
+## Contact information
+
+These materials were produced at UC Davis in a collaboration between
+[Grand Challenges](https://grandchallenges.ucdavis.edu/) (Molly McKinney),
+[Global Affairs](https://globalaffairs.ucdavis.edu/) (Jolynn Shoemaker), and
+[DataLab](https://datalab.ucdavis.edu/) (C. Titus Brown).
+
+Please contact Molly McKinney at
+[mcmckinney@ucdavis.edu](mailto:mcmckinney@ucdavis.edu) with
+suggestions and questions!
