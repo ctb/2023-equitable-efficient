@@ -33,13 +33,6 @@ This toolkit includes guidance for four categories of meetings:
 
 ### Efficiency
 
-Meetings require time, from both organizers and the participants - and
-sometimes are not necessary to accomplish objectives! Making the best
-use of meetings requires planning and clarity in purpose and process.
-Before scheduling any meeting, facilitators should evaluate whether
-the objectives can be accomplished through alternative means, such as
-email, collaborative documents, or a brief one-on-one discussions.
-
 Meetings require time, from both organizers and the
 participants. Making the best use of that time requires planning and
 clarity in purpose and process. It is important that meetings have
