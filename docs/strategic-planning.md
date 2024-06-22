@@ -13,7 +13,7 @@ process and ensure that the final plan is viewed as relevant and
 valuable to all members of the staff. Strategic plan meetings can be
 organized in various configurations, depending on the number of
 participants who will be involved in planning and the expected final
-output (structure and parameters of the strategic plan). Strategic
+output. Strategic
 planning meetings may involve larger committees and smaller
 subcommittees or working groups, depending on the size of the
 organization or unit and the elements of the strategic planning
@@ -26,7 +26,7 @@ effort.
 ???+ note "Checklist for initial organization"
 
     - [ ] Determine the final strategic planning product and specific elements that will be required in the plan.
-    - [ ] Identify the participants in the strategic planning process, and the participants in this meeting/set of meetings
+    - [ ] Identify the participants in the strategic planning process, and the participants in this meeting/set of meetings.
     - [ ] Create structure: Agree upon and send out a format for the strategic plan along with which elements the meeting will address.
     - [ ] Provide context: complete a SWOT analysis (Strengths, Weaknesses,
           Opportunities, and Threats) to provide a shared context for the group.

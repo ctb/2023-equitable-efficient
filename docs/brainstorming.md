@@ -11,7 +11,7 @@ problem solve, and think creatively to increase innovation.
 
 ???+ note "Checklist for initial organization"
 
-    - [ ] Choose a limited group size (5-10)
+    - [ ] Smaller groups lead to more productive and engaged breakout groups. If the group is larger than 10, create smaller breakout groups numbering 5-10 people.
 
 ### Pre-meeting checklist
 

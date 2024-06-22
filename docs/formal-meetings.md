@@ -48,7 +48,8 @@ If recurring meetings are needed -
     - [ ] Determine meeting schedule, considering meeting frequency and format (in-person, virtual, or hybrid).
     - [ ] Prepare read-ahead materials, including the formal agenda, meeting notes from the previous meeting, and any relevant resources.
     - [ ] Encourage the formation of subgroups for deeper-dive discussions and recommendations. Ensure regular communication between subgroups and the main committee.
-    - [ ] Individual Outreach: Monitor participant engagement and reach out individually as necessary to encourage input
+    - [ ] Individual Outreach: Monitor participant engagement and reach out individually as necessary to encourage input.
+    - [ ] Circulate tasks and timelines.
 
 ### Post-meeting items
 

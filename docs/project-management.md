@@ -54,6 +54,3 @@ at the meeting and what needs to happen.
 
     - [ ] Send post-meeting summaries (within 1 hour of meeting end).
     - [ ] Remind team members of action items as needed.
-
-### Resources
-
